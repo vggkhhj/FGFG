@@ -1,0 +1,143 @@
+BODY {
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  font-family: verdana;
+  font-size: 12px;
+  color: #7D7D7D;
+}
+td {
+  font-family: verdana;
+  font-size: 12px;
+  color: #7D7D7D;
+}
+#headDiv {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 10px;
+  font-size: 8px;
+  background: black;
+}
+#leftHeadTd {
+  background: black;
+}
+#logo
+{
+  font-family: arial;
+  font-size: 24px;
+  color: #FFFFFF;
+  padding-left: 10px;
+  text-decoration: none;
+}
+.slogan
+{
+  font-family: tahoma;
+  font-size: 16px;
+  color: #F3E115;
+  padding-left: 10px;
+}
+#rightHeadTd {
+  display: block;
+  position: relative;
+  width: 32px;
+  height: 58px;
+  background: black;
+}
+#headSep {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 26px;
+  background: #393a3c;
+}
+.mainheading {
+  font-family: arial;
+  font-size: 14px;
+  color: #1C1C1C;
+  font-weight: bold;
+  height: 46px;
+  padding-left: 10px;
+  background: #E9E9E9 url('img/heading_bg.gif') top left repeat-x;
+}
+.navLinks {
+  display: block;
+  position: relative;
+  width: 180px;
+}
+
+.navLinks A
+{
+  display: block;
+  position: relative;
+  padding-left: 5px;
+  font-family:tahoma;
+  font-size:12px;
+  color:#E7780B;
+  text-decoration: none;
+  border-bottom: 1px dotted #b1b1b1;
+    line-height: 20px;
+}
+.navLinks A:hover
+{
+  display: block;
+  position: relative;
+  padding-left: 5px;
+  font-family:tahoma;
+  font-size:12px;
+  color:white;
+  text-decoration:none;
+  border-bottom: 1px dotted #b1b1b1;
+
+}
+.contentClass {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: justify;
+  line-height: 150%;
+}
+.contentClass A {
+  color:#E7780B;
+  text-decoration:none;
+}
+.contentClass A:hover {
+  color:#9f1600;
+  text-decoration:none;
+}
+.mainLinks A
+{
+  display: block;
+  width: 180px;
+  background-color:black;
+  font-family:tahoma;
+  font-size:12px;
+  color:#F3E115;
+  font-weight:bold;
+  text-align:center;
+  text-decoration: none;
+  line-height: 18px;
+}
+.mainLinks A:hover
+{
+  display: block;
+  width: 180px;
+  background-color:#393a3c;
+  font-family:tahoma;
+  font-size:12px;
+  color:#FFFFFF;
+  font-weight:bold;
+  text-align:center;
+  text-decoration: none;
+}
+.border
+{
+  border:1px solid #F0F0F0;
+}
+a.siteCreatorLink {
+  color: #7D7D7D;
+  text-decoration: underline;
+}
+a.siteCreatorLink:hover {
+  text-decoration: none;
+}
